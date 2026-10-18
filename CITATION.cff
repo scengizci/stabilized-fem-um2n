@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository or its code in your research,
+  please cite the software repository and the associated paper
+  once its bibliographic information is available.
+type: software
+title: >-
+  stabilized-fem-um2n: Curvature- and stabilization-informed
+  neural mesh adaptation for stabilized finite element computations
+  of convection-dominated transport
+authors:
+  - family-names: Cengizci
+    given-names: Süleyman
+    affiliation: Antalya Bilim University
+  - family-names: Abali
+    given-names: Bilen Emek
+    affiliation: Uppsala University
+repository-code: https://github.com/scengizci/stabilized-fem-um2n
+url: https://github.com/scengizci/stabilized-fem-um2n
+keywords:
+  - stabilized finite element methods
+  - neural mesh adaptation
+  - UM2N
+  - SUPG
+  - PSPG
+  - LSIC
+  - shock capturing
+  - convection-dominated transport
